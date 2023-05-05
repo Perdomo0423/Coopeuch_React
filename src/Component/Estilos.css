@@ -1,0 +1,12 @@
+.card-header{
+    text-align: right;
+}
+
+#login_alerterror{
+    position: "absolute";
+    z-index: 100;
+}
+
+.text .p{
+    text-align: justify;
+}
